@@ -1,2 +1,2 @@
 # flask.github.io
-blog site using flask,python
+blog site using python language and its framework FLASK,additional jinga
